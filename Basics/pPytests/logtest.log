@@ -1,0 +1,27 @@
+ 2020-06-04 12:51:06,244 :,DEBUG :, Pytests.test_logging :,  A debug statement :
+ 2020-06-04 12:51:06,244 :,INFO :, Pytests.test_logging :,  an info statement :
+ 2020-06-04 12:51:06,244 :,WARNING :, Pytests.test_logging :,   a warning statement :
+ 2020-06-04 12:51:06,244 :,ERROR :, Pytests.test_logging :,  an error statement :
+ 2020-06-04 12:51:06,244 :,CRITICAL :, Pytests.test_logging :,  a critical statement :
+ 2020-06-04 12:51:29,360 :DEBUG : Pytests.test_logging : A debug statement :
+ 2020-06-04 12:51:29,360 :INFO : Pytests.test_logging : an info statement :
+ 2020-06-04 12:51:29,360 :WARNING : Pytests.test_logging :  a warning statement :
+ 2020-06-04 12:51:29,360 :ERROR : Pytests.test_logging : an error statement :
+ 2020-06-04 12:51:29,361 :CRITICAL : Pytests.test_logging : a critical statement :
+ 2020-06-04 12:55:21,702 :DEBUG : pytest_pyfunc_call : A debug statement :
+ 2020-06-04 12:55:21,703 :INFO : pytest_pyfunc_call : an info statement :
+ 2020-06-04 12:55:21,703 :WARNING : pytest_pyfunc_call :  a warning statement :
+ 2020-06-04 12:55:21,703 :ERROR : pytest_pyfunc_call : an error statement :
+ 2020-06-04 12:55:21,703 :CRITICAL : pytest_pyfunc_call : a critical statement :
+ 2020-06-04 12:55:58,108 :DEBUG : Pytests.test_logging : A debug statement :
+ 2020-06-04 12:55:58,109 :INFO : Pytests.test_logging : an info statement :
+ 2020-06-04 12:55:58,109 :WARNING : Pytests.test_logging :  a warning statement :
+ 2020-06-04 12:55:58,109 :ERROR : Pytests.test_logging : an error statement :
+ 2020-06-04 12:55:58,109 :CRITICAL : Pytests.test_logging : a critical statement :
+ 2020-06-04 12:59:27,811 :WARNING : Pytests.test_logging :  a warning statement :
+ 2020-06-04 12:59:27,811 :ERROR : Pytests.test_logging : an error statement :
+ 2020-06-04 12:59:27,811 :CRITICAL : Pytests.test_logging : a critical statement :
+ 2020-06-04 13:59:32,337 :INFO : test_reports : 4 :
+ 2020-06-04 13:59:32,337 :INFO : test_reports : 5 :
+ 2020-06-04 14:00:10,279 :INFO : test_reports : 4 :
+ 2020-06-04 14:00:10,279 :INFO : test_reports : 5 :
