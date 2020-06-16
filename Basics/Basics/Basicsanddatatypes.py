@@ -22,7 +22,7 @@ print(listlist)
 listlist.insert(4, "Srinivas")
 print(listlist)
 #tuple : values can't be changed
-lista = (1, "kalyan", 23, "krishna")
+lista = (1, "kalyan", 23, "krishna", "Karanam", "srinivasa", 1, 213, 456)
 print(lista)
 print(lista[2])
 
@@ -31,3 +31,7 @@ print(lista[2])
 listd = {1: "Kalyan", "b": 2345}
 print(listd)
 print(listd["b"])
+
+liste = {1: "Kalyan", "b": 2345}
+print(liste)
+print(liste)
